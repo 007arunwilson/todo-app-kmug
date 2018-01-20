@@ -1,6 +1,6 @@
 ## Developer Notes
 
-To Sart, just download repository and run following  command in the directory
+To Start, just download repository and run following  command in the directory
 ```
 npm install
 ```
